@@ -1,6 +1,8 @@
 # HiveThriftCli
 
-This is a gem packege of hive thrift client library.
+This is a gem packege of Hive Thrift client library.
+
+The original thrift source is [here](https://github.com/apache/hive/blob/master/service-rpc/if/TCLIService.thrift).
 
 ## Installation
 
